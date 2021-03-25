@@ -1,0 +1,148 @@
+
+.center {
+    text-align: center;   
+}
+a{
+    text-decoration: none;
+    color:rgb(157, 157, 170);
+    text-decoration: underline;
+}
+.news-date{
+    color:grey;
+}
+.chris{
+    font-style: italic;
+}
+}
+h1 {
+    font-family: 'Brunel-Deck-Semibold',Georgia,serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 1.13636;
+    padding-top: 20px;
+    font-weight: bold;
+
+}
+h2{
+    font-family: 'Brunel-Deck-Semibold',Georgia,serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    line-height: 1.13636;
+    padding-top: 0px;
+    font-weight: lighter;
+
+}
+.article-header__title {
+    max-width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.articletext {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: #1a1a1a 
+}
+
+.news-content {
+    font-family: Georgia,serif;
+    font-size: 18px;
+    line-height: 1.38889;
+    background: #fff;
+    color: #1a1a1a;
+    font-feature-settings: 'kern';
+    font-kerning: normal;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    -webkit-text-size-adjust: 100%;
+}
+
+#news-info {
+    width: 75%;
+    text-align: left;
+    margin-left: 0px;
+
+}
+.margin {
+    margin-left: 380px;
+}
+
+figcaption {
+    color:#656565;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:10px;
+    text-align: left;
+    margin-left: 0px;    
+
+}
+#line{
+    border-top: 3px solid black;
+}
+
+.image-center {
+    margin-left: 25%;
+}
+.sep{
+    text-align: center;
+    border-top: 3px solid black;
+    border-bottom: 1px dotted gray;
+    margin-bottom: 40%;
+    margin-right: 45%;
+    margin-left: 45%;
+    margin-bottom: 10px;
+    padding: 2px;
+
+
+}
+#lbl{
+    font-style: italic;
+}
+.foot {
+    border-top: 0.3px dotted gray;
+
+}
+.author{
+    color: grey;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 13px;
+    margin-top: 30px;
+}
+.name {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#end {
+    border-top: 3px solid black;
+    border-bottom: 1px dotted gray;
+    margin-bottom: 80%;
+    margin-right: 24%;
+    margin-left: 29%;
+    margin-bottom: 10px;
+    padding: 2px;
+
+}
+.newsletter {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 630px;
+}
+.notice-two{
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    color: #1a1a1a;
+    text-align: center;
+    margin-left: 40px;
+}
+.bot{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 600px;
+}
